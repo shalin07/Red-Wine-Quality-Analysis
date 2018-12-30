@@ -1,4 +1,4 @@
-# Red-Wine-Quality in R
+# Red-Wine-Quality Analysis in R
 
 # Dataset preprocessing
 Normalizing some required columns and changing records of quality column to 1 where value was bigger than 6 and 0 where value was lesser that or equal to 6, where 1 means good quality and 0 means bad quality.

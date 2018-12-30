@@ -5,6 +5,7 @@ Normalizing some required columns and changing records of quality column to 1 wh
 
 # Data Distribution
 Training Set: 75% of data or 1200 records
+
 Testing Set: 25% of data or 399 records
 
 # Models used
